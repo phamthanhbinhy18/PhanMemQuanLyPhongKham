@@ -1,0 +1,64 @@
+D:\VisualStudioProject\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\bin\Debug\QuanLyPhongKhamDongY.exe.config
+D:\VisualStudioProject\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\bin\Debug\QuanLyPhongKhamDongY.exe
+D:\VisualStudioProject\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\bin\Debug\QuanLyPhongKhamDongY.pdb
+D:\VisualStudioProject\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.csprojResolveAssemblyReference.cache
+D:\VisualStudioProject\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fBenhNhan.resources
+D:\VisualStudioProject\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fMain.resources
+D:\VisualStudioProject\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.Properties.Resources.resources
+D:\VisualStudioProject\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.csproj.GenerateResource.Cache
+D:\VisualStudioProject\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.exe
+D:\VisualStudioProject\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.pdb
+D:\VisualStudioProject\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fThuoc.resources
+D:\VisualStudioProject\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fDonThuoc.resources
+D:\VisualStudioProject\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fTaoDonThuoc.resources
+D:\VisualStudioProject\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fXuatHoaDon.resources
+D:\VisualStudioProject\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\RdlCompile.cache
+D:\VisualStudioProject\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\RdlCompile.compiled
+D:\VisualStudioProject\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fDangNhap.resources
+D:\VisualStudioProject\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fTaiKhoan.resources
+E:\New folder\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.csprojAssemblyReference.cache
+E:\New folder\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fBenhNhan.resources
+E:\New folder\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fDangNhap.resources
+E:\New folder\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fDonThuoc.resources
+E:\New folder\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fMain.resources
+E:\New folder\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fTaiKhoan.resources
+E:\New folder\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fTaoDonThuoc.resources
+E:\New folder\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fThuoc.resources
+E:\New folder\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fXuatHoaDon.resources
+E:\New folder\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.Properties.Resources.resources
+E:\New folder\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.csproj.GenerateResource.cache
+E:\New folder\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.csproj.CoreCompileInputs.cache
+E:\New folder\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.exe
+E:\New folder\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.pdb
+E:\New folder\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\bin\Debug\QuanLyPhongKhamDongY.exe.config
+E:\New folder\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\bin\Debug\QuanLyPhongKhamDongY.exe
+E:\New folder\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\bin\Debug\QuanLyPhongKhamDongY.pdb
+E:\New folder\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\New folder\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\New folder\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+E:\New folder\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\New folder\QuanLyPhongKhamDongY\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.csproj.CopyComplete
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\bin\Debug\QuanLyPhongKhamDongY.exe.config
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\bin\Debug\QuanLyPhongKhamDongY.exe
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\bin\Debug\QuanLyPhongKhamDongY.pdb
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.csproj.AssemblyReference.cache
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fBenhNhan.resources
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fDangNhap.resources
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fDonThuoc.resources
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fMain.resources
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fTaiKhoan.resources
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fTaoDonThuoc.resources
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fThuoc.resources
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.fXuatHoaDon.resources
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.Properties.Resources.resources
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.csproj.GenerateResource.cache
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.csproj.CoreCompileInputs.cache
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.csproj.CopyComplete
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.exe
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\obj\Debug\QuanLyPhongKhamDongY.pdb
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\obj\Debug\RdlCompile.cache
+D:\Tài Liệu\File Bài Tập\Lập Trình. Net\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY_Nhom4\QuanLyPhongKhamDongY\obj\Debug\RdlCompile.compiled

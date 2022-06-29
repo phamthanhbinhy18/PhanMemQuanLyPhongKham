@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QLPKDYDataClasses">
+  <DataContextMoniker Name="/QLPKDYDataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="35b99a60-e2fa-480c-84ce-7b3ec59041f8" absoluteBounds="0.75, 1, 2, 1.5785953776041664">
+      <DataClassMoniker Name="/QLPKDYDataClassesDataContext/BenhNhan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="69070c25-4cef-47bd-9431-c19f4def5b44" absoluteBounds="0.765, 1.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ae582a24-2313-46fc-b24b-fffe3749f81a" absoluteBounds="3.5, 4.875, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/QLPKDYDataClassesDataContext/Thuoc" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0769a6ba-762d-4f07-8327-a4ee8629ae2a" absoluteBounds="3.515, 5.335, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6bfcfaff-887c-4e0c-9e10-a04406f91e39" absoluteBounds="6.25, 0.875, 2, 1.7708968098958329">
+      <DataClassMoniker Name="/QLPKDYDataClassesDataContext/ChiTietDonThuoc" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3d86c3d7-956d-4aaf-8282-700b7921c08f" absoluteBounds="6.265, 1.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3598ce99-4074-404b-af6f-19c264689802" absoluteBounds="3.5, 1, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QLPKDYDataClassesDataContext/DonThuoc" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1f450133-1b3e-43dc-9045-96843ffcee31" absoluteBounds="3.515, 1.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4907be39-90f1-4639-9926-7b0e03eef93c" absoluteBounds="6.75, 3.75, 2, 1.193992513020834">
+      <DataClassMoniker Name="/QLPKDYDataClassesDataContext/TaiKhoan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d5e59c8c-ba6f-4cc8-a1ce-9b44c37f4f75" absoluteBounds="6.765, 4.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 6.11464680989583); (6.46875 : 6.11464680989583); (6.46875 : 2.64589680989583)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLPKDYDataClassesDataContext/Thuoc/Thuoc_ChiTietDonThuoc" />
+      <nodes>
+        <classShapeMoniker Id="ae582a24-2313-46fc-b24b-fffe3749f81a" />
+        <classShapeMoniker Id="6bfcfaff-887c-4e0c-9e10-a04406f91e39" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 1.78929768880208); (6.25 : 1.78929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLPKDYDataClassesDataContext/DonThuoc/DonThuoc_ChiTietDonThuoc" />
+      <nodes>
+        <classShapeMoniker Id="3598ce99-4074-404b-af6f-19c264689802" />
+        <classShapeMoniker Id="6bfcfaff-887c-4e0c-9e10-a04406f91e39" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 1.78929768880208); (3.5 : 1.78929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLPKDYDataClassesDataContext/BenhNhan/BenhNhan_DonThuoc" />
+      <nodes>
+        <classShapeMoniker Id="35b99a60-e2fa-480c-84ce-7b3ec59041f8" />
+        <classShapeMoniker Id="3598ce99-4074-404b-af6f-19c264689802" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
